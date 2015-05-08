@@ -197,7 +197,7 @@
     <bool name="config_showNavigationBar">false</bool>
 
     <!-- Minimum screen brightness allowed by the power manager. -->
-    <integer name="config_screenBrightnessDim">10</integer>
+    <integer name="config_screenBrightnessDim">5</integer>
 
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
@@ -295,7 +295,7 @@
             32 - Camera
         For example, a device with Home, Back and Menu keys would set this
         config to 7. -->
-    <integer name="config_deviceHardwareKeys">1</integer>
+    <integer name="config_deviceHardwareKeys">7</integer>
 
     <!-- Disable lockscreen translucent decor by default -->
     <bool name="config_enableLockScreenTranslucentDecor">true</bool>
