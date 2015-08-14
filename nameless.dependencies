@@ -13,6 +13,12 @@
     },
     {
         "remote":      "github",
+        "repository":  "NamelessRom/android_hardware_qcom_display",
+        "target_path": "hardware/qcom/display-caf/msm8610",
+        "revision":    "n-2.1-caf-8974"
+    },
+    {
+        "remote":      "github",
         "repository":  "CyanogenMod/android_device_qcom_common",
         "target_path": "device/qcom/common",
         "revision":    "cm-12.1"
